@@ -20,4 +20,46 @@ IT基礎からAI実装、クラウドデプロイまで段階的に進めてい�
 ---
 
 ## 🗂 ディレクトリ構成（予定）
+ai-learning-roadmap/
+│
+├── phase1_it_basics/
+│ ├── linux_practice.md
+│ ├── python_basics.ipynb
+│ └── mini_project_weather_cli/
+│
+├── phase2_machine_learning/
+│ ├── regression_model.ipynb
+│ └── classification_project/
+│
+├── phase3_deep_learning/
+│ ├── cnn_model.py
+│ └── dataset_preprocessing.ipynb
+│
+└── phase4_ai_on_aws/
+├── fastapi_api/
+└── deploy_to_aws.md
 
+
+---
+
+## 🧭 学習進行状況
+
+| 週 | 目標 | 進捗 |
+|----|------|------|
+| Week 1 | Python環境構築・Git操作復習 | ⏳ 進行中 |
+| Week 2 | Linux基礎とCLIツール開発 | ⚪ 未着手 |
+| Week 3 | Python中級（関数・例外・API利用） | ⚪ 未着手 |
+
+---
+
+## 🔗 関連リンク
+
+- 📘 [Notion学習管理ページ](#)
+- 💬 [ChatGPTプロンプトメモ](#)
+- ☁️ [AWSコンソール](https://aws.amazon.com/jp/console/)
+- 📚 [scikit-learn公式](https://scikit-learn.org/stable/)
+
+---
+
+## 📄 ライセンス
+MIT License © 2025 あなたの名前
